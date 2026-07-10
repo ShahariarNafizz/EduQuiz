@@ -31,9 +31,10 @@ Since this project uses core Flutter widgets with zero external package dependen
 1. Open [FlutLab.io](https://flutlab.io/) and create a new Flutter project.
 2. Replace the contents of `lib/main.dart` with the `main.dart` code from this repository.
 3. Update the `pubspec.yaml` file (only requires standard flutter sdk and cupertino_icons).
-4. Click the **Run / Build** button on the right panel.
-
+   
 ### Option 2: Running Locally (VS Code / Android Studio)
 1. Clone this repository: 
    ```bash
-   git clone <your-github-repo-link-here>
+   git clone [https://github.com/ShahariarNafizz/EduQuiz.git](https://github.com/ShahariarNafizz/EduQuiz.git)
+5. Click the **Run / Build** button on the right panel.
+
